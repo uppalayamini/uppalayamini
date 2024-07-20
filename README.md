@@ -1,0 +1,5 @@
+- 👋 Hi, I’m UppalaYamini.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python Programming.
+- 📫 I'm excited to share my experience in coding.
+- 😄 I achieved 4 stars in hackerrank by learning C Programming and a bronze batch in Code Chef.
